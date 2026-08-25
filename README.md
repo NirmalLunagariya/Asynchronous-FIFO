@@ -101,7 +101,6 @@ This distinguishes a full FIFO from an empty FIFO even when the read and write a
 ├── async_fifo.sv
 ├── cdc_sync_2ff.sv
 ├── tb_async_fifo.sv
-└── README.md
 ```
 
 ### `async_fifo.sv`
